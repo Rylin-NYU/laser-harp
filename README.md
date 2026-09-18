@@ -2,7 +2,7 @@
 
 An interactive Arduino-based musical instrument that uses lasers and photoreceptors to detect when a player "plucks" a laser beam. Breaking a laser beam triggers a corresponding sound, creating a playable harp-like instrument
 
-![Laser Harp](laser-harp.jpg)
+![Laser Harp](laser-harp.JPG)
 
 
 ## Features
