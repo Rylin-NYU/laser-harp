@@ -27,3 +27,6 @@ An interactive Arduino-based musical instrument that uses lasers and photorecept
 ## Project Overview
 
 The Laser Harp combines electronics, programming, and interactive design to create a physical musical instrument. Lasers are directed toward photoreceptors, and when a player interrupts a beam, the Arduino detects the change and triggers an audio response. A smoke generator was also used to make the laser beams visible, creating a more immersive interactive experience.
+
+## Demo
+[Watch the Laser Harp in action on YouTube](https://www.youtube.com/watch?v=cRsNjxpxAt4)
